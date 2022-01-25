@@ -2,7 +2,7 @@ package githubPractice;
 
 import org.testng.annotations.Test;
 
-public class Practice3 {
+public class Practice3Test {
 	@Test
 	public void demo() {
 		System.out.println("hello");
